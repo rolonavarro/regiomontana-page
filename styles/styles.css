@@ -1,0 +1,15 @@
+body {
+    padding-top: 56px;
+  }
+  
+.bg-image-full {
+    background: no-repeat center center scroll;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+  }
+
+#first {
+    height: 200px;
+}
+
